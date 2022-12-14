@@ -15,8 +15,8 @@ Conteúdo estudado durante o curso [Dart: entendendo a Orientação a Objetos](h
 - `const`: Definição de tipagem que impede o objeto de ter seu valor alterado.
 - `final`: Definição de tipagem que impede o objeto não inicializado de ter seu valor alterado.
 - `if/else`: Função que permite comparação e decisão de escolhas
-- `for`: Função que permite a criação de loops de repetição com limite definido.
-- `while`: Função que permite a criação de llops de repetição sem limite definido.
+- `for`: Função que permite a criação de loops com limite definido.
+- `while`: Função que permite a criação de loops sem limite definido.
 
 ## 🛠️ Ambiente e Funções
 
