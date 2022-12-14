@@ -186,7 +186,7 @@ do {
 Para executar qualquer um dos códigos você pode clonar o repositório, abrir a pasta do projeto e executar o arquivo `.dart`:
 
 ```
-git clone
-cd
+git clone https://github.com/jhoisz/Dart_criando_e_manipulando_variaveis_e_listas.git
+cd Dart_criando_e_manipulando_variaveis_e_listas
 dart nomeDoCodigo.dart
 ```
